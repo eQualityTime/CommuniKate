@@ -3,14 +3,14 @@
 # ----------------------- #
 
 url: http://yoursite.com
-title: Your Awesome Site
-email: your-email@domain.com
-author: Your Name
+title: CommuniKate
+email: info@communikate.joereddington.com
+author: Joe Reddington
 description: > # "Write an awesome description for your new site here. 
   You can edit this line in _config.yml. It will appear in your document 
   head meta (for Google search results) and in your feed.xml site 
   description.
-copyright: 'Copyright &copy; 2015 Your Name. All Rights Reserved.'
+copyright: 'Copyright &copy; 2016 Your Name. All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 # ----------------------- #
@@ -27,8 +27,9 @@ permalink: pretty
 
 social:
   - title: twitter
-    url: https://twitter.com/SBootstrap
+    url: https://twitter.com/CommunikateAAC
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
-  - title: linkedin
-    url: 
+    url: https://github.com/joereddington/CommuniKate
+  - title: email
+    url: mailto:info@communikate.joereddington.com
+

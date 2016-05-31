@@ -1,0 +1,51 @@
+---
+layout: default
+img: phones.png
+category: Main
+title: CK20
+description: |
+---
+<div id="CK20">
+
+
+</div>
+
+
+You can download the CommuniKate 20 page set in the correct formats for:
+
+#### Tobii DynaVox
+
+We have versions for:
+
+*   [DynaVox Series 5](http://communikate.joereddington.com/downloads/ck20/CK20_dynavox.User)
+*   [DynaVox Compass](http://communikate.joereddington.com/downloads/ck20/CK20_dynavox_compass.bzf)
+
+Both versions use PCS symbols rather than the Mulberry set used in CommuiKate and continues some small additions to the normal CommuniKate set – this includes such things as some extra examples of birds in the animal category and several other minor language changes. (Thanks to [Will Wade](http://appsforaac.net/blogs/willwade) for the Compass conversion)
+
+#### Sensory Software
+
+We have versions for:
+
+*   [Grid 2 (SymbolStix) (GridPlayer combatible)](http://communikate.joereddington.com/downloads/ck20/CK20_grid_2.bdl)
+*   [Grid 2 (PCS)](http://communikate.joereddington.com/downloads/ck20/CK20_grid_player.bdl)
+*   [Grid 2 (WLS)](http://communikate.joereddington.com/downloads/ck20/CK20_grid_2_wls.bdl)
+
+You can also download these grid sets at from Sensor Software's bundle browser [here](https://grids.sensorysoftware.com/en/kate-mccallum-1/communikate-20-for-grid-player).
+
+#### Techcess
+
+For MindExpress we have versions with various symbol sets
+
+*   [MindExpress (PCS)](http://communikate.joereddington.com/downloads/ck20/CK20_mindexpress_PCS.jmm)
+*   [MindExpress (SymbolStix)](http://communikate.joereddington.com/downloads/ck20/CK20_mindexpress_SymbolStix.hmm)
+*   [MindExpress(WLS)](http://communikate.joereddington.com/downloads/ck20/CK20_mindexpress_wls.jmm)
+
+You can also download them from the Techcess online browser [here](http://www.mindexpress.org/index.php). (original conversion by [Will Wade](http://appsforaac.net/blogs/willwade) and further converted by Ian Foulger).
+
+#### CoughDrop
+
+Specifically written for CoughDrop this version uses some of the additional open-licensed symbols CoughDrop offers. Thanks to Brian Whitmer for his AutoMagic and endless support via Twitter. Click to [Try out the new board set for yourself!](https://www.mycoughdrop.com/kate-mccallum/communikate-top-page_1)
+
+#### Others
+
+We have several other formats in preparation. If you'd like to port CommuniKate 20 to a new device then you are absolutely free to do so! (we'd be very grateful if you'd send us the relevant files so that we can put them up here so other people can make use of them). If you'd just like to look at the page sets - then the **PowerPoint design document is [here](https://github.com/joereddington/CommuniKate/blob/master/ck20/CK20V2.pptx?raw=true)**.

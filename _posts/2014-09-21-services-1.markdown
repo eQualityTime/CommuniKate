@@ -1,8 +1,10 @@
 ---
 layout: default
-img: ipad.png
-category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+img: held.JPG
+category: Intro
+title: What makes CommuniKate different for users?
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+
+
+CommuniKate isn’t only a standard page set, it’s an entirely free-to-use transferable page set. This means that there are no legal barriers preventing people from putting CommuniKate on any device at all. As a result if you are a CommuniKate user switching to, say, DynaVox, you can download the Dynavox version of CommuniKate and be able to use a familiar page set. CommuniKate is has an open licence under Creative Commons, meaning that it can be altered, shared, reused, and grow, all for free.  Our Rights and Licensing page goes into more details about why we believe having open page sets are vital for the AAC community, and how we’ve designed CommuniKate to best match that need.

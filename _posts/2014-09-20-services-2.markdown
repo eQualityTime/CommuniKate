@@ -1,0 +1,12 @@
+---
+layout: default
+img: lowtech.JPG
+category: Intro
+title: About CommuniKate
+description: |
+---
+CommuniKate is a socially focused page set designed exclusively for people who use augmentative and alternative communication (AAC). It was designed so that it could be easily used in conjunction with a low-tech communication book and as a progression from a book to a dynamic display device.
+
+CommuniKate is designed for people who rely heavily on the environment or context in order to communicate effectively but understand concepts and language used in conversation and during everyday activities. CommuniKate supports emerging literacy skills and enhances comprehension by using photographs and symbols to represent language.
+
+CommuniKate was designed by Kate McCallum, who currently works as a Specialist Speech and Language Therapy Technician.  She has worked in the field of AAC for the past 15 years and qualified as an Occupational Therapist in 2013.

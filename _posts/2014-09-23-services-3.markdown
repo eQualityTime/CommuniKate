@@ -1,8 +1,10 @@
 ---
 layout: default
-img: phones.png
-category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+img: play.JPG
+category: Intro
+title: Read, Play, and Share
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+CommuniKate is heavily documented, you can read all about its design and use in our [80page manual](https://github.com/joereddington/CommuniKate/blob/master/CommuniKateManualLaunch.docx?raw=true), and play with our online demos of both [CK20](http://communikate.joereddington.com/releases/v1/ck20/en/) and [CK12](http://communikate.joereddington.com/releases/v2/ck12/en/) before you download.  
+
+The demos are fully interactive online versions of the page set. There is a [Portuguese version](http://communikate.joereddington.com/releases/v1/ck20/por/) of the CK20 demo, and we have volunteers currently translating for a range of languages. If you are interested in helping us translate the page set to any other language we’d love to hear from you.
