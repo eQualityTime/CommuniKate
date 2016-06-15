@@ -15,24 +15,24 @@ CommuniKate 20 is available in these formats:
 
 #### Tobii DynaVox
 
-*   [DynaVox Series 5](http://communikate.joereddington.com/downloads/ck20/CK20_dynavox.User)
-*   [DynaVox Compass](http://communikate.joereddington.com/downloads/ck20/CK20_dynavox_compass.bzf)
+*   [DynaVox Series 5](http://equalitytime.co.uk/ck/downloads/ck20/CK20_dynavox.User)
+*   [DynaVox Compass](http://equalitytime.co.uk/ck/downloads/ck20/CK20_dynavox_compass.bzf)
 
 These version include some extra examples of birds in the animal category and several other minor language changes. (ht: [Will Wade](http://appsforaac.net/blogs/willwade) for the Compass conversion)
 
 #### Sensory Software
 
-*   [Grid 2 (SymbolStix) (GridPlayer combatible)](http://communikate.joereddington.com/downloads/ck20/CK20_grid_2.bdl)
-*   [Grid 2 (PCS)](http://communikate.joereddington.com/downloads/ck20/CK20_grid_player.bdl)
-*   [Grid 2 (WLS)](http://communikate.joereddington.com/downloads/ck20/CK20_grid_2_wls.bdl)
+*   [Grid 2 (SymbolStix) (GridPlayer combatible)](http://equalitytime.co.uk/ck/downloads/ck20/CK20_grid_2.bdl)
+*   [Grid 2 (PCS)](http://equalitytime.co.uk/ck/downloads/ck20/CK20_grid_player.bdl)
+*   [Grid 2 (WLS)](http://equalitytime.co.uk/ck/downloads/ck20/CK20_grid_2_wls.bdl)
 
 You can also download these grid sets [from Sensor Software's bundle browser](https://grids.sensorysoftware.com/en/kate-mccallum-1/communikate-20-for-grid-player).
 
 #### Techcess
 
-*   [MindExpress (PCS)](http://communikate.joereddington.com/downloads/ck20/CK20_mindexpress_PCS.jmm)
-*   [MindExpress (SymbolStix)](http://communikate.joereddington.com/downloads/ck20/CK20_mindexpress_SymbolStix.hmm)
-*   [MindExpress(WLS)](http://communikate.joereddington.com/downloads/ck20/CK20_mindexpress_wls.jmm)
+*   [MindExpress (PCS)](http://equalitytime.co.uk/ck/downloads/ck20/CK20_mindexpress_PCS.jmm)
+*   [MindExpress (SymbolStix)](http://equalitytime.co.uk/ck/downloads/ck20/CK20_mindexpress_SymbolStix.hmm)
+*   [MindExpress(WLS)](http://equalitytime.co.uk/ck/downloads/ck20/CK20_mindexpress_wls.jmm)
 
 You can also download them from the [Techcess online browser](http://www.mindexpress.org/index.php). (ht: [Will Wade](http://appsforaac.net/blogs/willwade) and Ian Foulger).
 
