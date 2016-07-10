@@ -16,7 +16,7 @@ CommuniKate 12 is available in these formats:
 *   [Grid 2 (SymbolStix)](http://equalitytime.co.uk/ck/downloads/ck12/CK12_grid_symbolstix.bdl)
 
 ### AssistiveWare
-*   [Proloque2go](http://equalitytime.co.uk/ck/downloads/ck12/CK12_p2g.p2gbk)
+*   [Proloquo2go](http://equalitytime.co.uk/ck/downloads/ck12/CK12_p2g.p2gbk)
 
 
 If you'd like to port CommuniKate 12 to a new device then you are absolutely free to do so! (we'd be very grateful if you'd send us the relevant files so that we can put them up here so other people can make use of them). If you'd just like to look at the page sets - then the **PowerPoint design document is [here](https://github.com/joereddington/CommuniKate/blob/master/ck12/CK12+V2.pptx?raw=true)**.
