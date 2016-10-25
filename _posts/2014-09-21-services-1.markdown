@@ -7,4 +7,9 @@ description: |
 ---
 
 
-CommuniKate isn’t only a standard page set, it’s an entirely free-to-use transferable page set. This means that there are no legal barriers preventing people from putting CommuniKate on any device at all. As a result if you are a CommuniKate user switching to, say, DynaVox, you can download the Dynavox version of CommuniKate and be able to use a familiar page set. CommuniKate has an open licence under Creative Commons, meaning that it can be altered, shared, reused, and grow, all for free.  Our Rights and Licensing page goes into more details about why we believe having open page sets are vital for the AAC community, and how we’ve designed CommuniKate to best match that need.
+CommuniKate isn’t only a standard page set, it’s an entirely free-to-use transferable page set. This means that there are no legal barriers preventing people from putting CommuniKate on any device at all. As a result if you are a CommuniKate user switching to, say, DynaVox, you can download the Dynavox version of CommuniKate and be able to use a familiar page set. 
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />CommuniKate is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>. This means that it can be altered, shared, reused, and grow, all for free. 
+
+
+We believe having open page sets are vital for the AAC community, and designed CommuniKate to best match that need. We could only make CommuniKate because of the amazing work of [Straight Street](http://straight-street.com/) who released their Mulberry Symbol set under an open licence.   
