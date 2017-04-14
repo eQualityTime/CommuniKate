@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+	{% include head.html %}
+
+	<body>
+		{% include header.html %}
+<section id="main">
+<!-- Page Content -->
+    <div class="content-section-a">
+
+        <div class="container">
+
+            <div class="row">
+                <div class="col-lg-5 col-sm-6">
+                    <hr class="section-heading-spacer">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading">{{ page.title }}</h2>
+<div class="lead">
+{{page.content}}
+                </div>
+</div>
+                <div class="col-lg-5 col-lg-offset-2 col-sm-6">
+                    <img class="img-responsive" src="img/services/{{ page.img }}" alt="">
+                </div>
+
+            </div>
+
+        </div>
+        <!-- /.container -->
+
+    </div>
+    <!-- /.content-section-a -->
+</section>
+
+
+ {% include contact.html %}
+		{% include footer.html %}
+		{% include js.html %}
+	</body>
+</html>
+
