@@ -8,9 +8,10 @@ description: |
 
 
 # Completed Translations
-
+* Slovak: Template. [Current Demo]
 
 # Translations in Progress
+* Spanish: Template. [Current Demo](http://designs.theopenvoicefactory.org/803a81b77b091efe08c7190f1e2a56dc/?lang=Jorge)
 
 
 # Translating the Pageset
