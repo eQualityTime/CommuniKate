@@ -34,6 +34,8 @@ If you are putting CK into language we've never had before, then please start fr
 ## Can I continue one of the translations that still need work? 
 Please do! We know these can be big jobs so we really like it when people share the effort. This also means that if you get half way thought a translation - you can send us it and we'll put it up for others to use.  
 
+Also, and this is important - NO translation is ever 'finished'. There will always be improvements that need to happen, typos to fix, more localisation that can be done. It's always nice to go over and check things and proofread and make changes. These are 'living' files.  
+
 
 ## How close do my changes have to be?
 We want CK to feel 'local' in every language. So some things might need translating carefully ("I am sick"), but some pages might need changing a lot (The breakfast food page would have different things on it) and some pages might need removing (some places want an entire page for cheese, others want to remove the page for alachol). To find out more about how to add new pages and change links, please see [this page](). 
