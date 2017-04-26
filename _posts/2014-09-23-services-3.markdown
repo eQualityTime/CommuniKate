@@ -5,6 +5,6 @@ category: Intro
 title: Read, Play, and Share
 description: |
 ---
-CommuniKate is heavily documented, you can read all about its design and use in our [80page manual](https://github.com/joereddington/CommuniKate/blob/master/CommuniKateManualLaunch.docx?raw=true), and play with our online demos of both [CK20](http://test.equalitytime.co.uk/azulejoe/releases/v1/ck20/en/) and [CK12](http://test.equalitytime.co.uk/azulejoe/releases/v2/ck12/en/) before you download.  
+CommuniKate is heavily documented, you can read all about its design and use in our [80page manual](https://github.com/joereddington/CommuniKate/blob/master/CommuniKateManualLaunch.docx?raw=true), and play with our online demos of both [CK20](http://equalitytime.github.io/CommuniKate/demos/CK20V2.pptx/) and [CK12](http://equalitytime.github.io/CommuniKate/demos/CK12+V2.pptx/) before you download.  
 
-The demos are fully interactive online versions of the page set. There is a [Portuguese version](http://test.equalitytime.co.uk/azulejoe/releases/v1/ck20/por/) of the CK20 demo, and we have volunteers currently translating for a range of languages. If you are interested in helping us translate the page set to any other language we’d love to hear from you.
+The demos are fully interactive online versions of the page set. There are more demos on the translation page.
