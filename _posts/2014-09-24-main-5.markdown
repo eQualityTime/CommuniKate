@@ -1,0 +1,33 @@
+---
+layout: default
+img: lt.png
+category: Main
+title: Low-tech
+description: |
+---
+<div id="lt">
+
+</div>
+
+
+CommuniKate has been converted to a number of low tech formats. 
+
+#### Boards
+Large boards that can be printed out for A3. 
+*   [CK20 Board](https://github.com/eQualityTime/CommuniKate/blob/master/ck20/CK20_board.pptx?raw=true)
+*   [CK12 Board](https://github.com/eQualityTime/CommuniKate/blob/master/ck12/CK12board.pptx?raw=true)
+
+#### ICE
+In case of emergency (ICE) cards fold up nicely to fit in a pocket and are used, as the name suggests for emergency situations like a medical problem. The content has been alterted to put medical matters first.  More details can be found on [this](http://equalitytime.co.uk/6038/2017/05/23/ice-cards/) post. 
+
+*   [CK20 card](https://github.com/eQualityTime/CommuniKate/blob/master/other/CK%2020%20ICE%20card.pptx?raw=true)
+*   [CK12 card](https://github.com/eQualityTime/CommuniKate/blob/master/other/CK%2012%20ICE%20Card.pptx?raw=true)
+
+You can also download these grid sets [from Sensor Software's bundle browser](https://grids.sensorysoftware.com/en/kate-mccallum-1/communikate-20-for-grid-player).
+
+#### Books
+You can directly use the CK20 and CK12 pptx templates to make commication books. There's a good guide [here](http://equalitytime.co.uk/4604/2015/01/12/step-by-step-making-a-low-tech-communication-book/). For convenience, we've linked to the templates again below, but they are the same files as above.
+
+*   [CK12](https://github.com/eQualityTime/CommuniKate/blob/master/ck12/CK12+V2.pptx?raw=true)
+*   [CK20](https://github.com/eQualityTime/CommuniKate/blob/master/ck20/CK20V2.pptx?raw=true)
+
