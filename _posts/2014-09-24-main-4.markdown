@@ -40,6 +40,6 @@ You can also download them from the [Techcess online browser](http://www.mindexp
 
 Thanks to Brian Whitmer for his endless support.  [CK20 is availible in CoughDrop](https://www.mycoughdrop.com/kate-mccallum/communikate-top-page_1)
 
-#### Others
+#### More Systems
 
 If you'd like to port CommuniKate 20 to a new device then you are absolutely free to do so! (we'd be very grateful if you'd send us the relevant files so that we can put them up here so other people can make use of them). If you'd just like to look at the page sets - then the **PowerPoint design document is [here](https://github.com/joereddington/CommuniKate/blob/master/ck20/CK20V2.pptx?raw=true)**.
