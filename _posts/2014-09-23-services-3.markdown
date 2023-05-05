@@ -5,6 +5,6 @@ category: Intro
 title: Read, Play, and Share
 description: |
 ---
-CommuniKate is heavily documented, you can read all about its design and use in our [80page manual](https://github.com/joereddington/CommuniKate/blob/master/CommuniKateManualLaunch.docx?raw=true), and play with our online demos of both [CK20](http://equalitytime.github.io/CommuniKate/demos/CK20V2.pptx/) and [CK12](http://equalitytime.github.io/CommuniKate/demos/CK12+V2.pptx/) before you download.  
+CommuniKate is heavily documented, you can read all about its design and use in our [80page manual](https://github.com/eQualityTime/CommuniKate/raw/master/CommuniKateManualv2.3.docx), and play with our online demos on the [Open Voice Factory Page](https://theopenvoicefactory.org/).
 
-The demos are fully interactive online versions of the page set. There are more demos on the translation page.
+The demos are fully interactive online versions of the page set. 
